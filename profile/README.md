@@ -16,7 +16,13 @@ The files that steer AI agents, `CLAUDE.md`, `AGENTS.md`, `GEMINI.md`, `SKILL.md
 
 **Translate.** Behaviour authored once, made to run everywhere. A file written for one agent renders to all of them and stays in sync, across Claude Code, Codex, GitHub Copilot, Cursor, Gemini CLI, and Windsurf. The easy part, handled.
 
+**Vault.** A Vault gives a team one shared, graded, signed home for the instruction files their AI tools rely on, so every teammate's agents behave the way the team agreed. [tomevault.io/watchdog](https://tomevault.io/watchdog)
+
 > Symlinks keep your files looking the same. They can't keep your agents behaving the same.
+
+## Agent conformance
+
+Agent conformance is proving your AI agents are still running the rules you approved. Evals score what an agent did. Conformance proves what it was told is still true. The standard lives at [tomevault.io/standards/agent-conformance](https://tomevault.io/standards/agent-conformance).
 
 ## The repositories
 
@@ -35,7 +41,7 @@ The files that steer AI agents, `CLAUDE.md`, `AGENTS.md`, `GEMINI.md`, `SKILL.md
 
 ## Start here
 
-- Scan a file in your browser: [tomevault.io/scan](https://tomevault.io/scan)
+- Run a free Diagnostic on any instruction file: [tomevault.io/diagnostic](https://tomevault.io/diagnostic)
 - Keep it true automatically: [tomevault.io/watchdog](https://tomevault.io/watchdog)
 - A signed credential for your clients: [tomevault.io/agencies](https://tomevault.io/agencies)
 - The standard behind every verdict: [tomevault.io/standards](https://tomevault.io/standards)
